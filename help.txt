@@ -1,0 +1,13 @@
+Navigate to project source folder
+
+group_0577/phase1/src
+
+To compile program type the following into the terminal:
+javac -Xlint main/Main.java
+
+To run the program type the following into the terminal:
+java main.Main
+
+- Note:
+- Please only run one instance of the program at a time to ensure that persistence files don't corrupt; we will be
+adding a solution to this in phase2 to ensure that only one instance of the program can run at a time.
